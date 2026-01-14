@@ -46,8 +46,7 @@ pip install -r requirements.txt
 Create a .env file:
 ```bash
 ELECTRICITY_MAPS_API_KEY=your_api_key_here
-```bash
-
+```
 Run:
 ```bash
 python fetch_range.py
